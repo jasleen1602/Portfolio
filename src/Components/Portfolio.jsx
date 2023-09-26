@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "KrishiSewa : One Stop Solution for Farmers",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An Ecommerce and ML prediction website to assist farmers with a conversational chatbot and voice call assistant.",
+    url: "https://github.com/srishtiwadhwa/KrishiSewa",
   },
   {
-    title: "Web Development for Beginners",
+    title: "BuzzWomen Chatbot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An AI enabled conversational chatbot, with voice assistance and speech recognition for counseling local women entrepreneurs in over 100 languages and multiple platforms.",
+    url: "https://github.com/jasleen1602/Chatbot-Code-To-Give",
   },
   {
-    title: "My Resume Site",
+    title: "Learning Disorder Prediction",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A website that Integrates Machine learning to predict whether a child has dyslexia or dyscalculia based upon a survey and quiz.",
+    url: "https://github.com/jasleen1602/Dyslexia_Prediction",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Decoding Mysteries",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A hidden items game with quiz for ML enthusiasts.",
+    url: "https://pratyaksha-047.github.io/Decode_Mysteries/",
   },
 ];
 
